@@ -12,3 +12,5 @@ preprocessing
 sklearn
 python-Levenshtein
 texthero
+nltk
+matplotlib
