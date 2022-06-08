@@ -14,3 +14,4 @@ python-Levenshtein
 texthero
 nltk
 matplotlib
+seaborn
