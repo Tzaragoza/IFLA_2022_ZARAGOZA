@@ -9,3 +9,4 @@ spacy
 fuzzywuzzy
 pandas
 preprocessing
+sklearn
