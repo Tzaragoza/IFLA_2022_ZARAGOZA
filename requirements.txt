@@ -10,3 +10,5 @@ fuzzywuzzy
 pandas
 preprocessing
 sklearn
+python-Levenshtein
+texthero
