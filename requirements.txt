@@ -7,4 +7,3 @@
 Unidecode
 spacy
 fuzzywuzzy
-texthero
